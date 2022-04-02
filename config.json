@@ -1,0 +1,8 @@
+{
+  "prefix": "!",
+  "log_channel_id ": "886086641364664340",
+  "status":{
+    		"name": "tickets!",
+    		"type": "streaming"
+    	}
+}
